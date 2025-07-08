@@ -1,0 +1,6 @@
+// This is a comment
+print "Hello, World!";
+var x = 42 + 3.14;
+if (x > 40) {
+    print "x is greater than 40";
+}
